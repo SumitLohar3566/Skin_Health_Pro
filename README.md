@@ -97,8 +97,9 @@ Medical Report Generator (HTML)
 ### 🔹 Diagnosis Result
 <img width="1152" height="723" alt="Screenshot 2026-01-31 210601" src="https://github.com/user-attachments/assets/39b1c74b-8347-45ba-bf80-22fd9dd75aa3" />
 
-### 🔹 Medical Intelligence (Infermedica)
-<img width="1297" height="778" alt="Screenshot 2026-01-31 204918" src="https://github.com/user-attachments/assets/06ad6ac0-b6e8-42e6-9655-6bc9eebc23e4" />
+### 🔹 CNN WORKING
+<img width="1919" height="883" alt="Screenshot 2026-02-01 124631" src="https://github.com/user-attachments/assets/092de678-8042-4fbc-bee5-e87cd12ce152" />
+
 
 ### 🔹 Medicine Recommendations
 <img width="1874" height="707" alt="Screenshot 2026-01-31 210704" src="https://github.com/user-attachments/assets/2dc31d36-e5ef-4474-abc6-383abb3cb038" />
