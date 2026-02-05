@@ -1,4 +1,4 @@
-<img width="1911" height="798" alt="Screenshot 2026-01-31 180528" src="https://github.com/user-attachments/assets/ba1ce772-6a53-49f0-a0aa-c24f3d41ab0b" /># 🧬 Skin Health Pro+ 
+<img width="1911" height="798" alt="Screenshot 2026-01-31 180528" src="https://github.com/user-attachments/assets/ba1ce772-6a53-49f0-a0aa-c24f3d41ab0b" /> # Skin Health Pro+ 
 
 Skin Health Pro+ is a **full-stack AI dermatology analysis system** that combines  
 **Deep Learning (CNN)** with **professional medical APIs** to analyze skin images and generate **clinically structured medical reports**.
