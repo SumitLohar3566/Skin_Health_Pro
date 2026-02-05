@@ -7,7 +7,7 @@ This project is designed for **academic, research, and portfolio demonstration p
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 - Overview
 - Key Features
 - Supported Skin Conditions
@@ -26,7 +26,7 @@ This project is designed for **academic, research, and portfolio demonstration p
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 Skin Health Pro+ allows users to:
 1. Upload a skin image
@@ -40,21 +40,21 @@ The system follows a **Human-in-the-Loop** approach — AI assists, doctors deci
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-✅ CNN-based skin disease classification  
-✅ Confidence-based predictions (Top-3 results)  
-✅ Infermedica medical database integration  
-✅ Symptom, risk factor & treatment intelligence  
-✅ Medicine information with images  
-✅ Nearby hospital & dermatology locator  
-✅ Auto-generated **medical report (HTML)**  
-✅ Modern medical-grade Streamlit UI  
-✅ Fallback mechanisms (Wikipedia + internal DB)  
+- CNN-based skin disease classification  
+- Confidence-based predictions (Top-3 results)  
+- Infermedica medical database integration  
+- Symptom, risk factor & treatment intelligence  
+- Medicine information with images  
+- Nearby hospital & dermatology locator  
+- Auto-generated **medical report (HTML)**  
+- Modern medical-grade Streamlit UI  
+- Fallback mechanisms (Wikipedia + internal DB)  
 
 ---
 
-## 🧠 Supported Skin Conditions
+##  Supported Skin Conditions
 
 - Eczema (Atopic Dermatitis)
 - Acne
@@ -67,7 +67,7 @@ The system follows a **Human-in-the-Loop** approach — AI assists, doctors deci
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 User Image
 ↓
@@ -86,7 +86,7 @@ Medical Report Generator (HTML)
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### 🔹 Dashboard Home
 <img width="1911" height="798" alt="Screenshot 2026-01-31 180528" src="https://github.com/user-attachments/assets/d3dca952-f7e3-45af-bc7c-568c51d5883b" />
@@ -121,7 +121,7 @@ Medical Report Generator (HTML)
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-----|-----------|
@@ -137,7 +137,7 @@ Medical Report Generator (HTML)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 Skin-Health-Pro/
 │
@@ -165,4 +165,7 @@ Skin-Health-Pro/
 
 ---
 
-📞 Contact Developer: Sumit Lohar 📧 Email:sumitlohar063@gmail.com 🐙 GitHub: https://github.com/SumitLohar3566🔗 LinkedIn:(https://www.linkedin.com/in/sumit-lohar-498341317/)
+- Contact Developer: Sumit Lohar
+- Email:sumitlohar063@gmail.com
+- GitHub: https://github.com/SumitLohar3566
+- LinkedIn:(https://www.linkedin.com/in/sumit-lohar-498341317/)
