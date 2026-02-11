@@ -104,6 +104,10 @@ Medical Report Generator (HTML)
 ### 🔹 Medicine Recommendations
 <img width="1874" height="707" alt="Screenshot 2026-01-31 210704" src="https://github.com/user-attachments/assets/2dc31d36-e5ef-4474-abc6-383abb3cb038" />
 
+### 🔹 Product Recommendations
+<img width="1242" height="727" alt="Screenshot 2026-01-31 204928" src="https://github.com/user-attachments/assets/92f1cac1-93a4-4885-83bd-597b1872c863" />
+<img width="1184" height="592" alt="Screenshot 2026-01-31 204935" src="https://github.com/user-attachments/assets/431f3a44-ea8f-42d2-a0d3-fa1ab446bf82" />
+
 ### 🔹 Hospital Locator
 <img width="783" height="791" alt="Screenshot 2026-01-31 205007" src="https://github.com/user-attachments/assets/acf5cf09-a5d0-4d59-83a2-fe10caea561b" />
 <img width="786" height="533" alt="Screenshot 2026-01-31 205017" src="https://github.com/user-attachments/assets/e00ebb88-b28c-4f51-882d-e42112d9b715" />
